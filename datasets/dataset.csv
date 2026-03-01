@@ -1,0 +1,935 @@
+Disease,Symptom
+Common Cold,runny_nose
+Common Cold,sneezing
+Common Cold,sore_throat
+Common Cold,nasal_congestion
+Common Cold,mild_fever
+Common Cold,cough
+Common Cold,headache
+Common Cold,fatigue
+Common Cold,loss_of_taste
+Common Cold,loss_of_smell
+Common Cold,ear_pain
+Common Cold,hoarseness
+Influenza (Flu),high_fever
+Influenza (Flu),muscle_pain
+Influenza (Flu),fatigue
+Influenza (Flu),headache
+Influenza (Flu),chills
+Influenza (Flu),cough
+Influenza (Flu),sore_throat
+Influenza (Flu),runny_nose
+Influenza (Flu),vomiting
+Influenza (Flu),sweating
+Influenza (Flu),breathlessness
+Influenza (Flu),chest_pain
+Pneumonia,high_fever
+Pneumonia,productive_cough
+Pneumonia,breathlessness
+Pneumonia,chest_pain
+Pneumonia,chills
+Pneumonia,fatigue
+Pneumonia,sweating
+Pneumonia,nausea
+Pneumonia,rapid_breathing
+Pneumonia,phlegm
+Pneumonia,coughing_blood
+Pneumonia,confusion
+Pneumonia,blue_lips
+Tuberculosis,persistent_cough
+Tuberculosis,night_sweats
+Tuberculosis,weight_loss
+Tuberculosis,fatigue
+Tuberculosis,fever
+Tuberculosis,coughing_blood
+Tuberculosis,chest_pain
+Tuberculosis,loss_of_appetite
+Tuberculosis,breathlessness
+Tuberculosis,swollen_lymph_nodes
+Tuberculosis,back_pain
+Bronchial Asthma,wheezing
+Bronchial Asthma,breathlessness
+Bronchial Asthma,chest_tightness
+Bronchial Asthma,dry_cough
+Bronchial Asthma,cough
+Bronchial Asthma,fatigue
+Bronchial Asthma,rapid_breathing
+Bronchial Asthma,anxiety
+Bronchial Asthma,coughing_blood
+Bronchial Asthma,chest_pain
+Bronchitis,productive_cough
+Bronchitis,phlegm
+Bronchitis,chest_tightness
+Bronchitis,fatigue
+Bronchitis,mild_fever
+Bronchitis,breathlessness
+Bronchitis,wheezing
+Bronchitis,sore_throat
+Bronchitis,chest_pain
+Bronchitis,headache
+COVID-19,fever
+COVID-19,dry_cough
+COVID-19,fatigue
+COVID-19,loss_of_taste
+COVID-19,loss_of_smell
+COVID-19,breathlessness
+COVID-19,headache
+COVID-19,sore_throat
+COVID-19,body_ache
+COVID-19,diarrhoea
+COVID-19,chest_pain
+COVID-19,confusion
+COVID-19,skin_rash
+Sinusitis,nasal_congestion
+Sinusitis,facial_pain
+Sinusitis,headache
+Sinusitis,runny_nose
+Sinusitis,loss_of_smell
+Sinusitis,fever
+Sinusitis,sore_throat
+Sinusitis,fatigue
+Sinusitis,ear_pain
+Sinusitis,cough
+Sinusitis,eye_pain
+Sinusitis,toothache
+Pleuritis,chest_pain
+Pleuritis,breathlessness
+Pleuritis,dry_cough
+Pleuritis,fever
+Pleuritis,shoulder_pain
+Pleuritis,rapid_breathing
+Pleuritis,fatigue
+Pleuritis,coughing_blood
+Pleuritis,weight_loss
+Gastroenteritis,vomiting
+Gastroenteritis,diarrhoea
+Gastroenteritis,abdominal_pain
+Gastroenteritis,nausea
+Gastroenteritis,fever
+Gastroenteritis,stomach_cramps
+Gastroenteritis,dehydration
+Gastroenteritis,fatigue
+Gastroenteritis,headache
+Gastroenteritis,blood_in_stool
+Gastroenteritis,muscle_pain
+Food Poisoning,vomiting
+Food Poisoning,diarrhoea
+Food Poisoning,abdominal_pain
+Food Poisoning,nausea
+Food Poisoning,fever
+Food Poisoning,stomach_cramps
+Food Poisoning,weakness
+Food Poisoning,headache
+Food Poisoning,blood_in_stool
+Food Poisoning,dehydration
+GERD,heartburn
+GERD,indigestion
+GERD,chest_pain
+GERD,bloating
+GERD,nausea
+GERD,sore_throat
+GERD,dry_cough
+GERD,difficulty_swallowing
+GERD,vomiting
+GERD,hoarseness
+Peptic Ulcer,abdominal_pain
+Peptic Ulcer,heartburn
+Peptic Ulcer,nausea
+Peptic Ulcer,indigestion
+Peptic Ulcer,bloating
+Peptic Ulcer,vomiting
+Peptic Ulcer,loss_of_appetite
+Peptic Ulcer,black_stool
+Peptic Ulcer,blood_in_stool
+Peptic Ulcer,weight_loss
+Peptic Ulcer,vomiting_blood
+Appendicitis,abdominal_pain
+Appendicitis,fever
+Appendicitis,nausea
+Appendicitis,vomiting
+Appendicitis,loss_of_appetite
+Appendicitis,constipation
+Appendicitis,diarrhoea
+Appendicitis,bloating
+Appendicitis,high_fever
+Appendicitis,abdominal_swelling
+Irritable Bowel Syndrome,abdominal_pain
+Irritable Bowel Syndrome,bloating
+Irritable Bowel Syndrome,constipation
+Irritable Bowel Syndrome,diarrhoea
+Irritable Bowel Syndrome,stomach_cramps
+Irritable Bowel Syndrome,fatigue
+Irritable Bowel Syndrome,nausea
+Irritable Bowel Syndrome,excessive_gas
+Irritable Bowel Syndrome,loss_of_appetite
+Irritable Bowel Syndrome,anxiety
+Irritable Bowel Syndrome,depression
+Cholera,severe_diarrhoea
+Cholera,vomiting
+Cholera,dehydration
+Cholera,muscle_cramps
+Cholera,nausea
+Cholera,sunken_eyes
+Cholera,rapid_heart_rate
+Cholera,weakness
+Cholera,seizures
+Cholera,loss_of_consciousness
+Constipation,constipation
+Constipation,abdominal_pain
+Constipation,bloating
+Constipation,hard_stools
+Constipation,headache
+Constipation,fatigue
+Constipation,loss_of_appetite
+Constipation,nausea
+Constipation,rectal_bleeding
+Constipation,pain_during_bowel_movements
+Jaundice,yellow_skin
+Jaundice,yellow_eyes
+Jaundice,dark_urine
+Jaundice,fatigue
+Jaundice,loss_of_appetite
+Jaundice,pale_stools
+Jaundice,itching
+Jaundice,abdominal_pain
+Jaundice,nausea
+Jaundice,fever
+Jaundice,weight_loss
+Jaundice,abdominal_swelling
+Hepatitis A,jaundice
+Hepatitis A,fatigue
+Hepatitis A,nausea
+Hepatitis A,abdominal_pain
+Hepatitis A,fever
+Hepatitis A,dark_urine
+Hepatitis A,pale_stools
+Hepatitis A,loss_of_appetite
+Hepatitis A,vomiting
+Hepatitis A,joint_pain
+Hepatitis A,itching
+Hepatitis B,fatigue
+Hepatitis B,jaundice
+Hepatitis B,abdominal_pain
+Hepatitis B,dark_urine
+Hepatitis B,loss_of_appetite
+Hepatitis B,nausea
+Hepatitis B,vomiting
+Hepatitis B,joint_pain
+Hepatitis B,fever
+Hepatitis B,yellow_eyes
+Hepatitis B,pale_stools
+Hepatitis B,weight_loss
+Hepatitis C,fatigue
+Hepatitis C,jaundice
+Hepatitis C,dark_urine
+Hepatitis C,abdominal_pain
+Hepatitis C,nausea
+Hepatitis C,loss_of_appetite
+Hepatitis C,muscle_pain
+Hepatitis C,joint_pain
+Hepatitis C,bleeding_easily
+Hepatitis C,confusion
+Hepatitis C,swollen_legs
+Cirrhosis,fatigue
+Cirrhosis,abdominal_swelling
+Cirrhosis,jaundice
+Cirrhosis,easy_bruising
+Cirrhosis,weight_loss
+Cirrhosis,loss_of_appetite
+Cirrhosis,nausea
+Cirrhosis,itching
+Cirrhosis,swollen_legs
+Cirrhosis,confusion
+Cirrhosis,vomiting_blood
+Cirrhosis,black_stool
+Cirrhosis,muscle_wasting
+Urinary Tract Infection,painful_urination
+Urinary Tract Infection,frequent_urination
+Urinary Tract Infection,pelvic_pain
+Urinary Tract Infection,burning_urination
+Urinary Tract Infection,cloudy_urine
+Urinary Tract Infection,blood_in_urine
+Urinary Tract Infection,strong_urine_smell
+Urinary Tract Infection,fever
+Urinary Tract Infection,nausea
+Urinary Tract Infection,back_pain
+Urinary Tract Infection,fatigue
+Kidney Stones,severe_back_pain
+Kidney Stones,kidney_pain
+Kidney Stones,painful_urination
+Kidney Stones,blood_in_urine
+Kidney Stones,nausea
+Kidney Stones,vomiting
+Kidney Stones,frequent_urination
+Kidney Stones,fever
+Kidney Stones,chills
+Kidney Stones,pelvic_pain
+Kidney Stones,reduced_urine
+Chronic Kidney Disease,fatigue
+Chronic Kidney Disease,swollen_legs
+Chronic Kidney Disease,reduced_urine
+Chronic Kidney Disease,loss_of_appetite
+Chronic Kidney Disease,nausea
+Chronic Kidney Disease,vomiting
+Chronic Kidney Disease,breathlessness
+Chronic Kidney Disease,confusion
+Chronic Kidney Disease,itching
+Chronic Kidney Disease,muscle_cramps
+Chronic Kidney Disease,chest_pain
+Chronic Kidney Disease,foamy_urine
+Pyelonephritis,high_fever
+Pyelonephritis,back_pain
+Pyelonephritis,painful_urination
+Pyelonephritis,frequent_urination
+Pyelonephritis,chills
+Pyelonephritis,nausea
+Pyelonephritis,vomiting
+Pyelonephritis,fatigue
+Pyelonephritis,blood_in_urine
+Pyelonephritis,confusion
+Pyelonephritis,reduced_urine
+Heart Attack,chest_pain
+Heart Attack,chest_pressure
+Heart Attack,pain_radiating_to_arm
+Heart Attack,breathlessness
+Heart Attack,sweating
+Heart Attack,nausea
+Heart Attack,dizziness
+Heart Attack,fatigue
+Heart Attack,pain_radiating_to_jaw
+Heart Attack,irregular_heartbeat
+Heart Attack,vomiting
+Heart Attack,loss_of_consciousness
+Heart Attack,fainting
+Hypertension,headache
+Hypertension,dizziness
+Hypertension,blurred_vision
+Hypertension,chest_pain
+Hypertension,fatigue
+Hypertension,palpitations
+Hypertension,nausea
+Hypertension,breathlessness
+Hypertension,nosebleed
+Hypertension,confusion
+Hypertension,vision_loss
+Hypertension,severe_headache
+Angina,chest_pain
+Angina,chest_pressure
+Angina,breathlessness
+Angina,fatigue
+Angina,pain_radiating_to_arm
+Angina,nausea
+Angina,sweating
+Angina,dizziness
+Angina,pain_radiating_to_jaw
+Angina,anxiety
+Heart Failure,breathlessness
+Heart Failure,swollen_legs
+Heart Failure,fatigue
+Heart Failure,swollen_ankles
+Heart Failure,rapid_heart_rate
+Heart Failure,cough
+Heart Failure,reduced_urine
+Heart Failure,weight_gain
+Heart Failure,loss_of_appetite
+Heart Failure,confusion
+Heart Failure,chest_pain
+Heart Failure,irregular_heartbeat
+Arrhythmia,palpitations
+Arrhythmia,irregular_heartbeat
+Arrhythmia,dizziness
+Arrhythmia,fatigue
+Arrhythmia,breathlessness
+Arrhythmia,chest_pain
+Arrhythmia,fainting
+Arrhythmia,anxiety
+Arrhythmia,loss_of_consciousness
+Arrhythmia,sweating
+Migraine,severe_headache
+Migraine,sensitivity_to_light
+Migraine,nausea
+Migraine,sensitivity_to_sound
+Migraine,vomiting
+Migraine,dizziness
+Migraine,blurred_vision
+Migraine,fatigue
+Migraine,visual_disturbances
+Migraine,numbness_in_hands_feet
+Migraine,confusion
+Stroke,facial_drooping
+Stroke,slurred_speech
+Stroke,weakness_in_limbs
+Stroke,severe_headache
+Stroke,loss_of_balance
+Stroke,confusion
+Stroke,vision_loss
+Stroke,dizziness
+Stroke,numbness_in_hands_feet
+Stroke,loss_of_consciousness
+Stroke,vomiting
+Stroke,seizures
+Epilepsy,seizures
+Epilepsy,loss_of_consciousness
+Epilepsy,confusion
+Epilepsy,muscle_spasms
+Epilepsy,staring_spells
+Epilepsy,anxiety
+Epilepsy,fatigue
+Epilepsy,headache
+Epilepsy,bladder_loss
+Epilepsy,tongue_bite
+Epilepsy,memory_loss
+Meningitis,severe_headache
+Meningitis,stiff_neck
+Meningitis,high_fever
+Meningitis,sensitivity_to_light
+Meningitis,vomiting
+Meningitis,confusion
+Meningitis,seizures
+Meningitis,skin_rash
+Meningitis,fatigue
+Meningitis,loss_of_consciousness
+Meningitis,purple_spots
+Vertigo,spinning_sensation
+Vertigo,dizziness
+Vertigo,nausea
+Vertigo,loss_of_balance
+Vertigo,vomiting
+Vertigo,headache
+Vertigo,ringing_in_ears
+Vertigo,sweating
+Vertigo,hearing_loss
+Vertigo,vision_problems
+Vertigo,fainting
+Parkinson's Disease,tremors
+Parkinson's Disease,muscle_stiffness
+Parkinson's Disease,slow_movement
+Parkinson's Disease,balance_problems
+Parkinson's Disease,slurred_speech
+Parkinson's Disease,memory_loss
+Parkinson's Disease,depression
+Parkinson's Disease,fatigue
+Parkinson's Disease,swallowing_problems
+Parkinson's Disease,constipation
+Parkinson's Disease,sleep_problems
+Diabetes Type 2,excessive_thirst
+Diabetes Type 2,frequent_urination_diabetes
+Diabetes Type 2,fatigue
+Diabetes Type 2,blurred_vision
+Diabetes Type 2,slow_healing_wounds
+Diabetes Type 2,numbness_in_hands_feet
+Diabetes Type 2,weight_loss
+Diabetes Type 2,excessive_hunger
+Diabetes Type 2,recurrent_infections
+Diabetes Type 2,dry_skin
+Diabetes Type 2,irritability
+Hypoglycemia,shakiness
+Hypoglycemia,sweating
+Hypoglycemia,excessive_hunger
+Hypoglycemia,dizziness
+Hypoglycemia,confusion
+Hypoglycemia,fast_heart_rate
+Hypoglycemia,anxiety
+Hypoglycemia,headache
+Hypoglycemia,fatigue
+Hypoglycemia,irritability
+Hypoglycemia,seizures
+Hypoglycemia,loss_of_consciousness
+Hypothyroidism,fatigue
+Hypothyroidism,weight_gain
+Hypothyroidism,cold_intolerance
+Hypothyroidism,constipation
+Hypothyroidism,depression
+Hypothyroidism,dry_skin
+Hypothyroidism,hair_loss
+Hypothyroidism,muscle_weakness
+Hypothyroidism,swollen_thyroid
+Hypothyroidism,slow_heart_rate
+Hypothyroidism,memory_loss
+Hypothyroidism,puffy_face
+Hypothyroidism,hoarseness
+Hyperthyroidism,weight_loss
+Hyperthyroidism,rapid_heart_rate
+Hyperthyroidism,heat_intolerance
+Hyperthyroidism,anxiety
+Hyperthyroidism,tremors
+Hyperthyroidism,excessive_sweating
+Hyperthyroidism,irritability
+Hyperthyroidism,diarrhoea
+Hyperthyroidism,palpitations
+Hyperthyroidism,muscle_weakness
+Hyperthyroidism,swollen_thyroid
+Hyperthyroidism,irregular_periods
+Hyperthyroidism,hair_loss
+Obesity,weight_gain
+Obesity,breathlessness
+Obesity,fatigue
+Obesity,joint_pain
+Obesity,excessive_sweating
+Obesity,back_pain
+Obesity,snoring
+Obesity,depression
+Obesity,high_blood_pressure
+Obesity,skin_darkening
+Obesity,irregular_periods
+Malaria,high_fever
+Malaria,chills
+Malaria,sweating
+Malaria,headache
+Malaria,shivering
+Malaria,muscle_pain
+Malaria,nausea
+Malaria,vomiting
+Malaria,fatigue
+Malaria,diarrhoea
+Malaria,jaundice
+Malaria,confusion
+Malaria,seizures
+Dengue,high_fever
+Dengue,severe_headache
+Dengue,pain_behind_eyes
+Dengue,joint_pain
+Dengue,muscle_pain
+Dengue,skin_rash
+Dengue,nausea
+Dengue,vomiting
+Dengue,fatigue
+Dengue,mild_bleeding
+Dengue,abdominal_pain
+Dengue,vomiting_blood
+Dengue,easy_bruising
+Typhoid,prolonged_fever
+Typhoid,headache
+Typhoid,weakness
+Typhoid,abdominal_pain
+Typhoid,loss_of_appetite
+Typhoid,constipation
+Typhoid,diarrhoea
+Typhoid,rose_spots
+Typhoid,fatigue
+Typhoid,nausea
+Typhoid,cough
+Typhoid,sweating
+Typhoid,confusion
+Chicken Pox,itching
+Chicken Pox,blisters
+Chicken Pox,red_spots
+Chicken Pox,fever
+Chicken Pox,fatigue
+Chicken Pox,headache
+Chicken Pox,loss_of_appetite
+Chicken Pox,sore_throat
+Chicken Pox,skin_rash
+Chicken Pox,pneumonia
+Chicken Pox,bacterial_skin_infection
+Measles,high_fever
+Measles,skin_rash
+Measles,runny_nose
+Measles,cough
+Measles,red_eyes
+Measles,sensitivity_to_light
+Measles,white_spots_in_mouth
+Measles,fatigue
+Measles,loss_of_appetite
+Measles,ear_infection
+Measles,pneumonia
+Measles,brain_damage
+Chikungunya,high_fever
+Chikungunya,severe_joint_pain
+Chikungunya,muscle_pain
+Chikungunya,headache
+Chikungunya,skin_rash
+Chikungunya,fatigue
+Chikungunya,nausea
+Chikungunya,joint_swelling
+Chikungunya,vomiting
+Chikungunya,eye_inflammation
+Leptospirosis,high_fever
+Leptospirosis,severe_headache
+Leptospirosis,muscle_pain
+Leptospirosis,red_eyes
+Leptospirosis,chills
+Leptospirosis,vomiting
+Leptospirosis,diarrhoea
+Leptospirosis,abdominal_pain
+Leptospirosis,jaundice
+Leptospirosis,rash
+Leptospirosis,kidney_failure
+Leptospirosis,meningitis
+Leptospirosis,respiratory_failure
+Rabies,fever
+Rabies,headache
+Rabies,anxiety
+Rabies,confusion
+Rabies,agitation
+Rabies,hydrophobia
+Rabies,paralysis
+Rabies,excessive_salivation
+Rabies,insomnia
+Rabies,hallucinations
+Rabies,seizures
+Fungal Infection,itching
+Fungal Infection,skin_rash
+Fungal Infection,scaly_skin
+Fungal Infection,redness
+Fungal Infection,circular_rash
+Fungal Infection,burning_sensation
+Fungal Infection,peeling_skin
+Fungal Infection,blisters
+Fungal Infection,hair_loss
+Fungal Infection,nail_discoloration
+Psoriasis,scaly_skin
+Psoriasis,red_patches
+Psoriasis,itching
+Psoriasis,dry_skin
+Psoriasis,peeling_skin
+Psoriasis,joint_pain
+Psoriasis,nail_discoloration
+Psoriasis,burning_sensation
+Psoriasis,bleeding_from_skin
+Psoriasis,eye_inflammation
+Psoriasis,swollen_joints
+Eczema,itching
+Eczema,dry_skin
+Eczema,red_skin
+Eczema,blisters
+Eczema,weeping_rash
+Eczema,skin_thickening
+Eczema,scaling
+Eczema,burning_sensation
+Eczema,swelling
+Eczema,skin_infection
+Eczema,sleep_problems
+Acne,pus_filled_bumps
+Acne,redness
+Acne,oily_skin
+Acne,blackheads
+Acne,whiteheads
+Acne,skin_rash
+Acne,pain_on_touch
+Acne,scarring
+Acne,cysts
+Acne,depression
+Urticaria (Hives),hives
+Urticaria (Hives),itching
+Urticaria (Hives),skin_rash
+Urticaria (Hives),swelling
+Urticaria (Hives),redness
+Urticaria (Hives),burning_sensation
+Urticaria (Hives),angioedema
+Urticaria (Hives),fever
+Urticaria (Hives),breathlessness
+Urticaria (Hives),anaphylaxis
+Impetigo,red_sores
+Impetigo,blisters
+Impetigo,yellow_crust
+Impetigo,skin_rash
+Impetigo,itching
+Impetigo,fever
+Impetigo,swollen_lymph_nodes
+Impetigo,pain_on_touch
+Impetigo,kidney_complication
+Arthritis,joint_pain
+Arthritis,swollen_joints
+Arthritis,stiff_joints
+Arthritis,reduced_range_of_motion
+Arthritis,fatigue
+Arthritis,warmth_in_joint
+Arthritis,redness_of_joint
+Arthritis,muscle_weakness
+Arthritis,fever
+Arthritis,weight_loss
+Arthritis,eye_inflammation
+Rheumatoid Arthritis,joint_pain
+Rheumatoid Arthritis,swollen_joints
+Rheumatoid Arthritis,morning_stiffness
+Rheumatoid Arthritis,fatigue
+Rheumatoid Arthritis,bilateral_joint_pain
+Rheumatoid Arthritis,fever
+Rheumatoid Arthritis,weight_loss
+Rheumatoid Arthritis,loss_of_appetite
+Rheumatoid Arthritis,anaemia
+Rheumatoid Arthritis,eye_problems
+Rheumatoid Arthritis,lung_problems
+Rheumatoid Arthritis,heart_complications
+Osteoporosis,back_pain
+Osteoporosis,bone_pain
+Osteoporosis,loss_of_height
+Osteoporosis,stooped_posture
+Osteoporosis,fractures_from_minor_falls
+Osteoporosis,weakness
+Osteoporosis,neck_pain
+Osteoporosis,hip_fracture
+Osteoporosis,spine_fracture
+Gout,severe_joint_pain
+Gout,swollen_big_toe
+Gout,redness
+Gout,warmth_in_joint
+Gout,fever
+Gout,joint_stiffness
+Gout,limited_movement
+Gout,tophi_deposits
+Gout,kidney_stones
+Gout,kidney_disease
+Back Pain,back_pain
+Back Pain,muscle_pain
+Back Pain,stiffness
+Back Pain,pain_on_bending
+Back Pain,leg_pain
+Back Pain,numbness_in_legs
+Back Pain,weakness_in_legs
+Back Pain,fatigue
+Back Pain,bladder_problems
+Back Pain,bowel_problems
+Cervical Spondylosis,neck_pain
+Cervical Spondylosis,stiffness
+Cervical Spondylosis,headache
+Cervical Spondylosis,shoulder_pain
+Cervical Spondylosis,numbness_in_hands
+Cervical Spondylosis,weakness_in_arms
+Cervical Spondylosis,dizziness
+Cervical Spondylosis,grinding_sound
+Cervical Spondylosis,loss_of_balance
+Cervical Spondylosis,bladder_problems
+Anaemia,fatigue
+Anaemia,weakness
+Anaemia,pale_complexion
+Anaemia,breathlessness
+Anaemia,dizziness
+Anaemia,rapid_heart_rate
+Anaemia,headache
+Anaemia,cold_hands_and_feet
+Anaemia,chest_pain
+Anaemia,brittle_nails
+Anaemia,hair_loss
+Anaemia,sore_tongue
+Sickle Cell Disease,severe_pain_crisis
+Sickle Cell Disease,anaemia
+Sickle Cell Disease,fatigue
+Sickle Cell Disease,jaundice
+Sickle Cell Disease,swollen_hands_feet
+Sickle Cell Disease,frequent_infections
+Sickle Cell Disease,delayed_growth
+Sickle Cell Disease,vision_problems
+Sickle Cell Disease,ulcers
+Sickle Cell Disease,stroke
+Sickle Cell Disease,pulmonary_hypertension
+Sickle Cell Disease,organ_damage
+Dengue Hemorrhagic Fever,high_fever
+Dengue Hemorrhagic Fever,severe_abdominal_pain
+Dengue Hemorrhagic Fever,easy_bruising
+Dengue Hemorrhagic Fever,bleeding_gums
+Dengue Hemorrhagic Fever,blood_in_urine
+Dengue Hemorrhagic Fever,vomiting_blood
+Dengue Hemorrhagic Fever,rapid_weak_pulse
+Dengue Hemorrhagic Fever,cold_clammy_skin
+Dengue Hemorrhagic Fever,restlessness
+Dengue Hemorrhagic Fever,shock
+Dengue Hemorrhagic Fever,organ_failure
+Depression,persistent_sadness
+Depression,loss_of_interest
+Depression,fatigue
+Depression,sleep_problems
+Depression,hopelessness
+Depression,weight_changes
+Depression,difficulty_concentrating
+Depression,irritability
+Depression,anxiety
+Depression,suicidal_thoughts
+Depression,physical_aches
+Depression,isolation
+Anxiety Disorder,excessive_worry
+Anxiety Disorder,anxiety
+Anxiety Disorder,restlessness
+Anxiety Disorder,rapid_heart_rate
+Anxiety Disorder,sweating
+Anxiety Disorder,tremors
+Anxiety Disorder,breathlessness
+Anxiety Disorder,headache
+Anxiety Disorder,insomnia
+Anxiety Disorder,fatigue
+Anxiety Disorder,chest_pain
+Anxiety Disorder,nausea
+Anxiety Disorder,panic_attacks
+Tonsillitis,sore_throat
+Tonsillitis,throat_pain
+Tonsillitis,difficulty_swallowing
+Tonsillitis,fever
+Tonsillitis,tonsil_swelling
+Tonsillitis,bad_breath
+Tonsillitis,headache
+Tonsillitis,ear_pain
+Tonsillitis,swollen_lymph_nodes
+Tonsillitis,fatigue
+Tonsillitis,drooling
+Tonsillitis,stiff_neck
+Tonsillitis,voice_change
+Otitis Media,ear_pain
+Otitis Media,fever
+Otitis Media,hearing_loss
+Otitis Media,ear_discharge
+Otitis Media,headache
+Otitis Media,difficulty_sleeping
+Otitis Media,irritability
+Otitis Media,pulling_ears
+Otitis Media,vomiting
+Otitis Media,dizziness
+Otitis Media,facial_paralysis
+Conjunctivitis,eye_redness
+Conjunctivitis,eye_discharge
+Conjunctivitis,itching_eyes
+Conjunctivitis,eye_pain
+Conjunctivitis,watery_eyes
+Conjunctivitis,sensitivity_to_light
+Conjunctivitis,swollen_eyelids
+Conjunctivitis,crusting
+Conjunctivitis,fever
+Conjunctivitis,ear_infection
+PCOS,irregular_periods
+PCOS,weight_gain
+PCOS,excessive_hair_growth
+PCOS,acne
+PCOS,hair_thinning
+PCOS,fatigue
+PCOS,depression
+PCOS,fertility_problems
+PCOS,pelvic_pain
+PCOS,darkening_of_skin
+PCOS,sleep_problems
+Endometriosis,severe_pelvic_pain
+Endometriosis,painful_periods
+Endometriosis,pain_during_intercourse
+Endometriosis,heavy_bleeding
+Endometriosis,back_pain
+Endometriosis,fatigue
+Endometriosis,painful_bowel_movements
+Endometriosis,bloating
+Endometriosis,infertility
+Endometriosis,blood_in_urine
+Endometriosis,chronic_fatigue
+Lung Cancer,persistent_cough
+Lung Cancer,coughing_blood
+Lung Cancer,breathlessness
+Lung Cancer,chest_pain
+Lung Cancer,weight_loss
+Lung Cancer,fatigue
+Lung Cancer,hoarseness
+Lung Cancer,loss_of_appetite
+Lung Cancer,bone_pain
+Lung Cancer,swollen_face
+Lung Cancer,shoulder_pain
+Lung Cancer,finger_clubbing
+Stomach Cancer,persistent_stomach_pain
+Stomach Cancer,nausea
+Stomach Cancer,loss_of_appetite
+Stomach Cancer,weight_loss
+Stomach Cancer,difficulty_swallowing
+Stomach Cancer,vomiting
+Stomach Cancer,black_stool
+Stomach Cancer,fatigue
+Stomach Cancer,bloating
+Stomach Cancer,vomiting_blood
+Stomach Cancer,jaundice
+Stomach Cancer,swollen_abdomen
+Allergic Rhinitis,runny_nose
+Allergic Rhinitis,sneezing
+Allergic Rhinitis,nasal_congestion
+Allergic Rhinitis,itching_eyes
+Allergic Rhinitis,watery_eyes
+Allergic Rhinitis,headache
+Allergic Rhinitis,fatigue
+Allergic Rhinitis,sore_throat
+Allergic Rhinitis,ear_pressure
+Allergic Rhinitis,loss_of_smell
+Allergic Rhinitis,snoring
+Allergic Rhinitis,sleep_problems
+Drug Allergy,skin_rash
+Drug Allergy,hives
+Drug Allergy,itching
+Drug Allergy,fever
+Drug Allergy,swelling
+Drug Allergy,breathlessness
+Drug Allergy,runny_nose
+Drug Allergy,eye_redness
+Drug Allergy,anaphylaxis
+Drug Allergy,blisters
+Drug Allergy,joint_pain
+Anaphylaxis,breathlessness
+Anaphylaxis,throat_swelling
+Anaphylaxis,hives
+Anaphylaxis,rapid_heart_rate
+Anaphylaxis,sudden_drop_in_blood_pressure
+Anaphylaxis,dizziness
+Anaphylaxis,nausea
+Anaphylaxis,vomiting
+Anaphylaxis,loss_of_consciousness
+Anaphylaxis,pale_skin
+Anaphylaxis,seizures
+Anaphylaxis,cardiac_arrest
+Dehydration,excessive_thirst
+Dehydration,dark_urine
+Dehydration,fatigue
+Dehydration,dizziness
+Dehydration,dry_mouth
+Dehydration,headache
+Dehydration,muscle_cramps
+Dehydration,reduced_urine
+Dehydration,sunken_eyes
+Dehydration,confusion
+Dehydration,rapid_heart_rate
+Dehydration,fainting
+Dehydration,seizures
+Heat Stroke,very_high_temperature
+Heat Stroke,confusion
+Heat Stroke,rapid_breathing
+Heat Stroke,hot_dry_skin
+Heat Stroke,loss_of_consciousness
+Heat Stroke,vomiting
+Heat Stroke,seizures
+Heat Stroke,slurred_speech
+Heat Stroke,rapid_heart_rate
+Heat Stroke,organ_failure
+Heat Stroke,coma
+Malnutrition,weight_loss
+Malnutrition,muscle_wasting
+Malnutrition,fatigue
+Malnutrition,weakness
+Malnutrition,poor_wound_healing
+Malnutrition,hair_loss
+Malnutrition,skin_problems
+Malnutrition,bone_pain
+Malnutrition,confusion
+Malnutrition,depression
+Malnutrition,heart_failure
+Malnutrition,organ_failure
+Malnutrition,immune_deficiency
+Worm Infestation,abdominal_pain
+Worm Infestation,loss_of_appetite
+Worm Infestation,itching_around_anus
+Worm Infestation,fatigue
+Worm Infestation,nausea
+Worm Infestation,weight_loss
+Worm Infestation,diarrhoea
+Worm Infestation,visible_worms_in_stool
+Worm Infestation,anaemia
+Worm Infestation,bloating
+Worm Infestation,sleep_problems
+Scabies,intense_itching
+Scabies,itching_worse_at_night
+Scabies,small_bumps
+Scabies,blisters
+Scabies,rash_between_fingers
+Scabies,rash_on_wrists
+Scabies,skin_thickening
+Scabies,secondary_infection
+Scabies,widespread_rash
+Piles (Haemorrhoids),rectal_bleeding
+Piles (Haemorrhoids),pain_in_anal_region
+Piles (Haemorrhoids),itching_around_anus
+Piles (Haemorrhoids),swelling_near_anus
+Piles (Haemorrhoids),constipation
+Piles (Haemorrhoids),feeling_of_incomplete_bowel
+Piles (Haemorrhoids),mucus_discharge
+Piles (Haemorrhoids),pain_during_bowel_movements
+Piles (Haemorrhoids),anaemia
+Piles (Haemorrhoids),strangulated_pile

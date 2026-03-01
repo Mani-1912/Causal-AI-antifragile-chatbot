@@ -1,0 +1,84 @@
+Disease,Precaution_1,Precaution_2,Precaution_3,Precaution_4
+Common Cold,Rest well,Drink warm fluids,Use nasal drops,Avoid going out in cold
+Influenza (Flu),Rest at home,Drink lots of fluids,Take paracetamol for fever,Get flu vaccine next year
+Pneumonia,See a doctor immediately,Take prescribed antibiotics,Rest completely,Drink warm fluids
+Tuberculosis,Take medicines daily without fail,Cover mouth when coughing,Good ventilation at home,Isolate from young children
+Bronchial Asthma,Always carry inhaler,Avoid dust and smoke,Stay away from allergens,Monitor breathing daily
+Bronchitis,Rest and drink fluids,Avoid smoking,Use a humidifier,Take cough medicine
+COVID-19,Isolate yourself,Wear a mask,Drink lots of water,Contact doctor if breathing is difficult
+Sinusitis,Steam inhalation twice daily,Use saline nasal spray,Drink warm fluids,Avoid cold air
+Pleuritis,See a doctor immediately,Rest and avoid exertion,Take prescribed painkillers,Sleep on the painful side
+Gastroenteritis,Drink ORS (electrolyte water),Eat light food like rice and banana,Wash hands often,Avoid dairy foods
+Food Poisoning,Stop eating solid food for a few hours,Sip water or ORS frequently,Eat bland food when better,See a doctor if vomiting does not stop
+GERD,Don't lie down after eating,Eat smaller meals,Avoid spicy and oily food,Sleep with head elevated
+Peptic Ulcer,Take prescribed medicines on time,Avoid painkillers like aspirin,Stop smoking,Reduce alcohol
+Appendicitis,Go to hospital immediately,Do not eat or drink anything,Do not take painkillers before diagnosis,Surgery is usually needed
+Irritable Bowel Syndrome,Eat fibre-rich foods,Drink plenty of water,Manage stress,Avoid caffeine and alcohol
+Cholera,Drink ORS immediately,Go to hospital now,Only drink boiled water,Wash hands with soap
+Constipation,Drink 8-10 glasses of water daily,Eat fibre-rich vegetables and fruits,Walk for 30 minutes daily,Do not ignore the urge to go to toilet
+Jaundice,See a doctor immediately,Rest completely,Eat only light boiled food,Avoid oily food and alcohol
+Hepatitis A,Rest completely,Eat fresh clean food only,Drink only boiled water,Do not share utensils
+Hepatitis B,Take complete vaccine course,Do not share needles or razors,Practice safe physical relations,Regular liver checkups
+Hepatitis C,Do not share needles,Avoid alcohol completely,Take prescribed antiviral drugs,Regular blood tests
+Cirrhosis,Stop alcohol completely,Take medicines regularly,Low-salt diet,Regular doctor visits
+Urinary Tract Infection,Drink 8-10 glasses of water daily,Do not hold urine for long,Wipe front to back,Take full course of antibiotics
+Kidney Stones,Drink 3-4 litres of water daily,Reduce salt intake,Avoid spinach and tomato,See a doctor for pain relief
+Chronic Kidney Disease,Control blood pressure and sugar,Low-protein diet,Take prescribed medicines,Avoid painkiller tablets
+Pyelonephritis,Take antibiotics as prescribed,Drink lots of water,Rest completely,See doctor if fever continues
+Heart Attack,Call emergency services immediately,Chew an aspirin if available,Do not drive yourself,Lie down and rest
+Hypertension,Take medicines every day without fail,Reduce salt in food,Walk 30 minutes daily,Avoid stress
+Angina,Rest immediately when pain starts,Take nitro tablet if prescribed,Avoid heavy physical work,Regular heart checkups
+Heart Failure,Take medicines daily,Weigh yourself every morning,Limit fluids if doctor advises,Low-salt diet
+Arrhythmia,Take prescribed medicines,Avoid caffeine and alcohol,Reduce stress,Regular ECG checkups
+Migraine,Rest in a dark quiet room,Take prescribed medicines early,Identify and avoid triggers,Stay hydrated
+Stroke,Call emergency services immediately,Note exact time symptoms started,Do not give food or water,Keep person lying with head slightly raised
+Epilepsy,Take medicines every day,Never miss a dose,Avoid swimming alone,Inform school or workplace
+Meningitis,Go to hospital immediately,This is a medical emergency,Vaccinate children against meningitis,Avoid contact with infected person
+Vertigo,Move slowly and carefully,Sit or lie down when dizzy,Avoid driving,Do special head exercises as shown by doctor
+Parkinson's Disease,Take medicines on strict schedule,Exercise and physiotherapy daily,Use assistive devices at home,Regular neurology checkups
+Diabetes Type 2,Control food — avoid sugar and white rice,Exercise 30 minutes daily,Check blood sugar regularly,Take medicines without fail
+Hypoglycemia,Eat 3-4 glucose biscuits immediately,Drink sweet juice or sugar water,Do not skip meals,Always carry sweet snacks
+Hypothyroidism,Take thyroid tablet every morning on empty stomach,Regular thyroid blood tests,Do not skip medicine,Avoid soy and cabbage in excess
+Hyperthyroidism,Take medicines regularly,Avoid iodine-rich foods,Avoid caffeine,Regular thyroid function tests
+Obesity,Eat smaller portions,Walk at least 45 minutes daily,Avoid sugary drinks,Reduce fried food
+Malaria,Take antimalarial medicines as prescribed,Use mosquito net at night,Apply mosquito repellent,Remove stagnant water near home
+Dengue,See a doctor immediately,Drink lots of water,Eat papaya leaf juice,Use mosquito nets
+Typhoid,Take full course of antibiotics,Only drink boiled or bottled water,Eat freshly cooked hot food,Wash hands before eating
+Chicken Pox,Do not scratch blisters,Apply calamine lotion,Isolate from others,Do not give aspirin to children
+Measles,Isolate immediately,Get vaccinated (MMR),Rest and drink fluids,See doctor immediately for complications
+Chikungunya,Use mosquito repellent,Wear full-sleeve clothes,Remove stagnant water,Take paracetamol for pain
+Leptospirosis,Avoid walking in floodwater,Wear rubber boots if unavoidable,Drink only clean water,Take prescribed antibiotics
+Rabies,Wash bite wound with soap for 15 minutes,Go to hospital immediately for vaccine,Complete all 5 vaccine doses,Report the animal to authorities
+Fungal Infection,Keep skin dry especially in skin folds,Apply antifungal cream,Wear loose cotton clothes,Do not share towels or clothing
+Psoriasis,Moisturise skin daily,Avoid scratching,Use prescribed creams,Manage stress which worsens it
+Eczema,Moisturise skin 2-3 times daily,Avoid harsh soaps,Use cotton clothing,Identify and avoid triggers
+Acne,Wash face twice daily with mild soap,Do not pop pimples,Use oil-free sunscreen,Consult dermatologist for severe acne
+Urticaria (Hives),Take antihistamine tablet,Avoid known allergens,Apply cold compress,See doctor if breathing is affected
+Impetigo,Keep sores covered,Wash hands frequently,Do not touch sores,Take full antibiotic course
+Arthritis,Exercise gently every day,Apply warm or cold packs,Take prescribed medicines,Maintain healthy weight
+Rheumatoid Arthritis,Take medicines without fail,Do gentle joint exercises,Rest when flaring,Regular blood tests
+Osteoporosis,Take calcium and vitamin D supplements,Exercise with weights,Avoid falls at home,Get bone density test
+Gout,Drink 3 litres of water daily,Avoid red meat and alcohol,Take prescribed medicines,Avoid fasting
+Back Pain,Apply heat pack on affected area,Do gentle stretches,Avoid heavy lifting,Maintain good sitting posture
+Cervical Spondylosis,Exercise neck gently daily,Use proper pillow,Avoid looking at phone for long,Physiotherapy is helpful
+Anaemia,Eat iron-rich foods like spinach and lentils,Take iron tablets as prescribed,Eat vitamin C foods to help iron absorption,Regular blood tests
+Sickle Cell Disease,Stay hydrated,Avoid extreme temperatures,Take preventive antibiotics as prescribed,Regular doctor checkups
+Dengue Hemorrhagic Fever,Go to hospital immediately,This is a medical emergency,Monitor for bleeding signs,Keep patient calm and comfortable
+Depression,Talk to a doctor or counsellor,Do not isolate yourself,Exercise daily — even a short walk,Take prescribed medicines regularly
+Anxiety Disorder,Deep breathing exercises,Regular physical exercise,Reduce caffeine,Talk to a mental health professional
+Tonsillitis,Gargle with warm salt water,Eat soft cold foods,Take full course of antibiotics,Rest voice
+Otitis Media,Take prescribed antibiotics,Pain relief with paracetamol,Keep ear dry,Follow up with doctor in 2 weeks
+Conjunctivitis,Wash hands before and after touching eyes,Do not rub eyes,Use separate towel,Use prescribed eye drops
+PCOS,Exercise regularly,Eat low-sugar diet,Maintain healthy weight,Regular gynaecology checkups
+Endometriosis,Pain relief medicines,Hormonal treatment as prescribed,Heat therapy for pain,Regular gynaecology visits
+Lung Cancer,Stop smoking immediately,See a doctor urgently,Avoid secondhand smoke,Get chest X-ray done
+Stomach Cancer,See a doctor urgently,Avoid salty and smoked foods,Avoid alcohol and smoking,Treat H. pylori infection
+Allergic Rhinitis,Avoid known allergens,Keep windows closed during pollen season,Use antihistamine medicines,Try nasal steroid spray
+Drug Allergy,Stop the medicine immediately,See doctor urgently,Tell all doctors about your allergy,Wear a medical alert bracelet
+Anaphylaxis,Use epinephrine auto-injector if available,Call emergency services immediately,Lie down with legs raised,Stay with patient until help arrives
+Dehydration,Drink water or ORS immediately,Avoid tea and coffee,Eat water-rich fruits,See doctor if not improving
+Heat Stroke,Move to cool place immediately,Pour cool water on body,Fan vigorously,Call emergency services
+Malnutrition,Eat balanced diet with protein dal eggs meat,Eat fruits and vegetables daily,Get nutritional supplements if needed,Feed children 5 times a day
+Worm Infestation,Take deworming tablet as advised,Wash hands before eating,Do not walk barefoot,Wash vegetables and fruits before eating
+Scabies,Apply prescribed lotion to whole body,Wash all clothes and bedding in hot water,Treat all family members simultaneously,Do not share clothing or towels
+Piles (Haemorrhoids),Eat high-fibre diet,Drink plenty of water,Do not strain during bowel movements,Sitz bath in warm water

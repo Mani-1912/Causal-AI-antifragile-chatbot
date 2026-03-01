@@ -1,0 +1,84 @@
+Disease,Description
+Common Cold,A mild viral infection of the nose and throat. Very common and gets better in a week.
+Influenza (Flu),A viral infection that attacks your respiratory system. Much stronger than a common cold.
+Pneumonia,"An infection that inflames the air sacs in one or both lungs, which may fill with fluid."
+Tuberculosis,A serious bacterial infection that mainly affects the lungs. Spreads through air.
+Bronchial Asthma,"A condition that makes airways narrow and swell, causing breathing difficulty especially at night."
+Bronchitis,Inflammation of the bronchial tubes that carry air to your lungs.
+COVID-19,A viral disease caused by coronavirus. Ranges from mild to very serious.
+Sinusitis,"Inflammation of the sinuses, the hollow spaces around your nose."
+Pleuritis,Inflammation of the lining around the lungs that causes sharp chest pain when breathing.
+Gastroenteritis,Stomach infection causing vomiting and loose motions. Usually lasts 1-3 days.
+Food Poisoning,Illness caused by eating contaminated food. Symptoms start within hours of eating bad food.
+GERD,"Stomach acid frequently flows back into your food pipe, causing burning feeling in chest."
+Peptic Ulcer,Painful sores that develop on the inside lining of your stomach.
+Appendicitis,Inflammation of the appendix. Pain usually starts around navel and moves to lower right side.
+Irritable Bowel Syndrome,"A common disorder affecting the large intestine causing cramps, bloating and changed bowel habits."
+Cholera,A serious bacterial infection causing severe watery diarrhoea and dehydration. Can be fatal without treatment.
+Constipation,Difficulty passing stools or not passing stools frequently enough.
+Jaundice,Yellowing of skin and eyes caused by too much bilirubin in blood. Often a sign of liver problem.
+Hepatitis A,"Liver infection caused by Hepatitis A virus, usually spread through contaminated food or water."
+Hepatitis B,Serious liver infection caused by Hepatitis B virus. Can become chronic.
+Hepatitis C,"A viral infection causing liver inflammation, sometimes leading to serious liver damage."
+Cirrhosis,Late-stage liver disease where healthy liver tissue is replaced by scar tissue.
+Urinary Tract Infection,Infection in any part of the urinary system. More common in women.
+Kidney Stones,Hard deposits of minerals and salts that form inside kidneys. Cause severe pain when passing.
+Chronic Kidney Disease,Gradual loss of kidney function over time. Kidneys filter waste from blood.
+Pyelonephritis,Kidney infection usually caused by bacteria. Needs immediate antibiotic treatment.
+Heart Attack,A blockage that stops blood flow to the heart. Life threatening emergency.
+Hypertension,High blood pressure. Known as a silent killer because it usually has no symptoms until severe.
+Angina,Chest pain caused by reduced blood flow to the heart muscle. Usually triggered by activity.
+Heart Failure,The heart is not pumping blood as well as it should. Symptoms worsen over time.
+Arrhythmia,"An irregular heartbeat — heart beats too fast, too slow, or with an irregular pattern."
+Migraine,"Intense throbbing headache, usually on one side. Can last hours or days."
+Stroke,"Brain attack — blood supply to part of brain is cut off. Time is critical. FAST: Face, Arms, Speech, Time."
+Epilepsy,A brain disorder causing repeated seizures or fits. Can be controlled with medicines.
+Meningitis,Inflammation of membranes surrounding brain and spinal cord. Medical emergency.
+Vertigo,Feeling that you or surroundings are spinning or moving when standing still.
+Parkinson's Disease,A progressive nervous system disorder that affects movement. Tremors are a common sign.
+Diabetes Type 2,"A condition where blood sugar stays too high. Can damage kidneys, eyes, heart and nerves."
+Hypoglycemia,Low blood sugar. Happens quickly and needs immediate eating of sugar or sweets.
+Hypothyroidism,Thyroid gland not producing enough hormones. Slows down body functions.
+Hyperthyroidism,"Thyroid gland produces too much hormone, speeding up body functions."
+Obesity,Excess body fat that increases risk of many diseases including diabetes and heart disease.
+Malaria,A mosquito-borne disease caused by parasites. Fever comes in cycles with chills and sweating.
+Dengue,A mosquito-borne viral disease. Causes severe flu-like illness. Watch for bleeding signs.
+Typhoid,A bacterial infection spread through contaminated food and water. Fever slowly rises over days.
+Chicken Pox,A highly contagious viral infection causing itchy blister-like rash all over body.
+Measles,A highly contagious viral disease. Rash starts on face and spreads down. Preventable by vaccine.
+Chikungunya,A mosquito-borne viral disease. Joint pain can be severe and last months.
+Leptospirosis,Bacterial infection spread through water contaminated by animal urine. Common after floods.
+Rabies,A deadly viral disease from animal bites. Must be treated immediately after bite.
+Fungal Infection,"Infection caused by fungi on skin. Very common in warm, moist areas of body."
+Psoriasis,"A skin disease causing red, itchy, scaly patches. Chronic condition with flares and remissions."
+Eczema,"A condition making skin inflamed, itchy and rough. Very common in children."
+Acne,A skin condition that occurs when hair follicles become plugged with oil and dead skin cells.
+Urticaria (Hives),"Red, itchy welts on skin caused by allergic reaction. Can appear anywhere on body."
+Impetigo,A highly contagious bacterial skin infection causing sores and yellow crusts. Common in children.
+Arthritis,Inflammation of joints causing pain and stiffness. Gets worse with age.
+Rheumatoid Arthritis,"An autoimmune disease where immune system attacks joints. Causes pain, swelling and eventually joint damage."
+Osteoporosis,"Bones become weak and brittle, making fractures more likely. Common in older women."
+Gout,"Form of arthritis with sudden severe pain, usually in big toe. Caused by excess uric acid."
+Back Pain,Pain in the lower back. One of the most common reasons people visit doctors.
+Cervical Spondylosis,Age-related wear and tear of neck bones and discs. Very common after age 40.
+Anaemia,Not enough healthy red blood cells to carry oxygen. Causes tiredness and weakness.
+Sickle Cell Disease,A genetic blood disorder where red blood cells become abnormal shaped causing blockages.
+Dengue Hemorrhagic Fever,Severe form of dengue. Bleeding from multiple sites is a warning sign of serious danger.
+Depression,A mood disorder causing persistent feelings of sadness and loss of interest. Very treatable.
+Anxiety Disorder,"Feeling of worry, nervousness or fear that is overwhelming and interferes with daily life."
+Tonsillitis,Inflammation of the tonsils at the back of the throat. Common in children.
+Otitis Media,Middle ear infection. Very common in young children. Causes severe ear pain.
+Conjunctivitis,Inflammation of the eye surface. Called pink eye. Highly contagious.
+PCOS,Polycystic Ovary Syndrome — a hormonal disorder common among women of reproductive age.
+Endometriosis,Tissue similar to uterus lining grows outside uterus. Causes severe pain during periods.
+Lung Cancer,Cancer that begins in the lungs. Strongly linked to smoking. Early detection is key.
+Stomach Cancer,Cancer that begins in the stomach. Often found late because early symptoms are vague.
+Allergic Rhinitis,"An allergic reaction causing cold-like symptoms. Triggered by pollen, dust or animal dander."
+Drug Allergy,An abnormal reaction of the immune system to a medicine.
+Anaphylaxis,"A severe, life-threatening allergic reaction. Usually triggered by food, medicines or insect stings."
+Dehydration,"Your body loses more fluids than it takes in. Dangerous if severe, especially in children."
+Heat Stroke,"A life-threatening condition where body overheats above 40°C. Medical emergency.',"
+Malnutrition,"Not getting enough nutrients from food. Very common in poor communities. Treatable with proper food.',"
+Worm Infestation,"Intestinal worms living inside the gut. Very common in children in rural areas.',"
+Scabies,A contagious skin infestation by tiny mites causing intense itching especially at night.
+Piles (Haemorrhoids),Swollen veins in the anus and rectum. Cause pain and bleeding during bowel movements.
