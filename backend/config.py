@@ -16,7 +16,7 @@ ENCODER_PATH  = os.path.join(MODEL_DIR, 'label_encoder.pkl')
 FEATURES_PATH = os.path.join(MODEL_DIR, 'feature_columns.pkl')
 
 OLLAMA_BASE_URL = "http://localhost:11434"
-OLLAMA_MODEL    = "llama3"
+OLLAMA_MODEL    = "llama3.1"
 
 DEBUG = True
 HOST  = "0.0.0.0"

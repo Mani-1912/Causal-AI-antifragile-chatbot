@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2026-03-02T15:25:00.632680",
+    "symptoms": [
+      "eye_pain",
+      "red_eyes"
+    ],
+    "predicted_disease": "Leptospirosis",
+    "correct": true,
+    "actual_disease": null
+  },
+  {
+    "timestamp": "2026-03-02T15:57:27.710388",
+    "symptoms": [
+      "runny_nose",
+      "cough"
+    ],
+    "predicted_disease": "Measles",
+    "correct": true,
+    "actual_disease": null
+  }
+]

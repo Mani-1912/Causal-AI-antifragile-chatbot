@@ -101,6 +101,7 @@ def call_llm(history: list) -> dict:
             "symptoms": [],
         }
     except Exception as e:
+        print(e)
         return {
             "message": "Something went wrong. Please try again in a moment.",
             "symptoms_ready": False,
