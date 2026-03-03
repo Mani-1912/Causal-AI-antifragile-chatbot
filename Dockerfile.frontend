@@ -1,0 +1,19 @@
+# Frontend Dockerfile
+FROM node:20-alpine
+
+WORKDIR /app
+
+# Copy package files
+COPY frontend/package*.json ./
+
+# Install dependencies
+RUN npm install
+
+# Copy frontend source
+COPY frontend/ .
+
+# Expose port (Vite dev server default)
+EXPOSE 5173
+
+# Run dev server
+CMD ["npm", "run", "dev", "--", "--host", "0.0.0.0"]
